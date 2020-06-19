@@ -1,0 +1,24 @@
+header {
+  padding-left: 32px;
+  padding-right: 16px;
+  width: 100%;
+  min-height: 44px;
+  z-index: 5;
+  background-color: var(--note-bg);
+  border-bottom: 1px solid var(--separator);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  flex-wrap: wrap;
+  flex-shrink: 0; /* Avoid vertical shrinking when page is too long */
+  transition: background-color 0.3s ease;
+}
+
+header > a {
+  font-weight: 600;
+  color: var(--text);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}

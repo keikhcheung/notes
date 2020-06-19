@@ -9,8 +9,13 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^2.21.37",
-    "gatsby-theme-garden": "^0.1.1",
+    "gatsby": "^2.23.4",
+    "gatsby-plugin-favicon": "^3.1.6",
+    "gatsby-remark-double-brackets-link": "^0.1.5",
+    "gatsby-remark-double-parenthesis-link": "^0.1.2",
+    "gatsby-remark-smartypants": "^2.3.4",
+    "gatsby-theme-garden": "^0.1.5",
+    "gatsby-transformer-remark": "^2.8.17",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   }
