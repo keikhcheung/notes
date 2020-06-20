@@ -27,7 +27,7 @@ body.light-mode samp {
 body.dark-mode {
   --main-bg: #000000;
   --note-bg: #0a0d11;
-  --text: #fafafc;
+  --text: #e2e0d9; /*#ebe9e4;*/ /*#dedede;*/
   --separator: #252525;
   --shadow: rgba(255, 255, 255, 0.1);
   --link: #ffca0c; /*#3da1ff;*/

@@ -9,8 +9,8 @@ Trust is different from trustworthiness. Trust is an _investment_ given out betw
 Trust depends on:
 
 - Social recognition (e.g. review, social hallmarks, credit score)
-- Appearance, behaviour (and the coherence of) #unclear
-- **Split-second social perception** (i.e. the snap judgement made within a tenth of a second when we see someone’s face about his/her traits; Botsman; ch. 5)
+- Appearance, behaviour (and the coherence thereof)
+- **Split-second social perception** (i.e. the snap judgement made within a tenth of a second when we see someone’s face about his/her traits) (Botsman; ch. 5)
 
 Trustworthiness depends on:
 
@@ -24,9 +24,9 @@ About honesty and fairness. ‘What do they gain by lying or by telling the trut
 - **Benevolence**  
 Empathy and goodwill. How much does this person care about the goal or commitment?
 
-Trustworthiness, as a quality, implies **reliability** and can be interpreted as (added) value. Trust (especially generalised trust or through collective review, for example), as a hallmark, can stoke security (--> [[Trust is the basic unit of human connection]]). Both of them can lever up willingness to pay risk premium (Botsman; ch. 6).
+Trustworthiness, as a quality, implies **reliability** and can be interpreted as (added) value. Trust (especially generalised trust or through collective review, for example), as a hallmark, can stoke security (--> [[Trust is the basic unit of human connection]]). Both of them can lever up willingness to pay risk premium in a transaction (Botsman; ch. 6).
 
-Informed transparency (--> [[Transparency does not always help establish trust]]) can help earning trustworthiness and eventually realise trust leap (build the trust and take it into action or boost existing trust.
+Informed transparency (--> [[Transparency does not always help establish trust]]) can help earning trustworthiness and eventually realise trust leap (build the trust and take it into action) or boost existing trust.
 
 * * *
 

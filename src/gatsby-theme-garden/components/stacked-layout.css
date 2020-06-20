@@ -39,6 +39,10 @@ samp {
   color: var(--code-text);
 }
 
+strong {
+  font-weight: 600;
+}
+
 body {
   background-color: var(--main-bg);
   color: var(--text);

@@ -10,7 +10,7 @@ Trust is needed when there is unknown between two parties who share the same int
 
 Small trust starts from an interpersonal level (e.g. trusting your friend in help). Bigger trust scales to an institutional level (e.g. trusting judiciary system will serve justice) or even on distrubuted networks (e.g. blockchain).
 
-**Trust leap** (transforming trust into an action of change) happens when trust stack is complete. There are 3 criteria for erecting a full trust stack:
+**Trust leap** (transforming trust into an action of change) happens when **trust stack** is complete. There are 3 criteria for erecting a full trust stack:
 
 1. Basic understanding of what the connection is about.
 
@@ -26,7 +26,7 @@ One way of bending the equation is by **information asymmetry**—by not overtly
 
 Placing trust in the wrong person/party could lead to detrimental results, especially when regulations cannot bridle them timely.
 
-Transparency properly brought to everyone (--> [[Transparency does not always help establish trust]]) can minimise this information asymmetry and provide an outsider’s view when making decisions (Kahneman; ch. 23).
+Transparency properly brought to everyone (--> [[Transparency does not always help establish trust]]) can minimise this information asymmetry and provide an outsider’s view when making decisions (Kahneman; ch. 23).
 
 Record of trust should help people to build trust. Yet, in a society which overweighs records, people without records are ousted from the prevalent trust building formula (paperwork).
 
