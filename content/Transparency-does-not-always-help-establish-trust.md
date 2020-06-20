@@ -17,6 +17,11 @@ Exposing legal terms & conditions of service agreement does not really attract a
 
 - Trading on the Dark Web is an example of making use of transparency to make trustworthiness tangible. Through collective review and qualitative experience sharing, people can become informed of trade procedures. Expectation can be set together with trustworthiness (--> [[Trust is different from trustworthiness]]), subsequently translating it into trust leap (--> [[Trust is the basic unit of human connection]]) and deal.
 
+## Question
+
+- Is convenience too often overvalued as advantage?
+  - New technology enables trust leap but can also introduce new ‘risky’ behaviour. We do not always know the limit and the far-reaching effects of the powerful technology which we create; nor do we know how to regulate it right away (but rather and only through time and gradual revision loop).
+
 * * *
 
 ## References
