@@ -12,8 +12,7 @@ Small trust starts from an interpersonal level (e.g. trusting your friend in hel
 
 **Trust leap** (transforming trust into an action of change) happens when trust stack is complete. There are 3 criteria for erecting a full trust stack:
 
-1. Basic understanding of what the connection is about.  
---> [[Transparency does not always help establish trust]]
+1. Basic understanding of what the connection is about.
 
 2. Advantages outweigh disadvantages in this connection.  
 --> [[The bad weigh more than the good]]
