@@ -33,6 +33,8 @@ Record of trust should help people to build trust. Yet, in a society which overw
 
 [[Trust is different from trustworthiness]]. Trust is an investment. Trustworthiness is a quality to earn.
 
+*Last update: 2020-06-20*
+
 * * *
 
 ## References

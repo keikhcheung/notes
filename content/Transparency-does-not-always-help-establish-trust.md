@@ -22,6 +22,8 @@ Exposing legal terms & conditions of service agreement does not really attract a
 - Is convenience too often overvalued as advantage?
   - New technology enables trust leap but can also introduce new ‘risky’ behaviour. We do not always know the limit and the far-reaching effects of the powerful technology which we create; nor do we know how to regulate it right away (but rather and only through time and gradual revision loop).
 
+*Last update: 2020-06-20*
+
 * * *
 
 ## References

@@ -28,6 +28,8 @@ Trustworthiness, as a quality, implies **reliability** and can be interpreted as
 
 Informed transparency (--> [[Transparency does not always help establish trust]]) can help earning trustworthiness and eventually realise trust leap (build the trust and take it into action) or boost existing trust.
 
+*Last update: 2020-06-20*
+
 * * *
 
 ## References

@@ -17,6 +17,8 @@ If the decision is about whether or not to make a change (to the existing status
 
 The relative gain or loss also plays an important role on top of that. A risk for a sure gain / maybe gaining nothing is evaluated differently than a risk for a sure loss / maybe losing nothing. Even though the eventual quantity of wealth for two persons is identical, the background and the change induced alters the meaning of the bet, and thus the final psychological state. This explains why entrepreneurs and chiefs tend to seek risks, and less-earning wives tend to seek settlement for alimony whereas more-earning husbands tend to go to court (Kahneman; ch. 25).
 
+*Last update: 2020-06-20*
+
 * * *
 
 ## References
