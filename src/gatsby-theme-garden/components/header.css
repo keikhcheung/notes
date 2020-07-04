@@ -12,7 +12,7 @@ header {
   padding-top: 8px;
   padding-bottom: 8px;
   flex-wrap: wrap;
-  flex-shrink: 0; /* Avoid vertical shrinking when page is too long */
+  /*  flex-shrink: 0; Avoid vertical shrinking when page is too long */
   transition: background-color 0.3s ease;
 }
 
@@ -21,4 +21,8 @@ header > a {
   color: var(--text);
   text-decoration: none;
   transition: color 0.3s ease;
+}
+
+header .controls {
+  display: flex;
 }

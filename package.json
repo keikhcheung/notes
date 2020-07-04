@@ -10,17 +10,19 @@
     "deploy": "gatsby build && gh-pages -d public"
   },
   "dependencies": {
-    "gatsby": "^2.23.4",
+    "gatsby": "^2.23.20",
     "gatsby-plugin-favicon": "^3.1.6",
-    "gatsby-remark-double-brackets-link": "^0.1.5",
+    "gatsby-plugin-react-helmet": "^3.3.9",
+    "gatsby-remark-double-brackets-link": "^0.1.6",
     "gatsby-remark-double-parenthesis-link": "^0.1.2",
-    "gatsby-remark-smartypants": "^2.3.4",
-    "gatsby-theme-garden": "^0.1.5",
-    "gatsby-transformer-remark": "^2.8.17",
+    "gatsby-remark-smartypants": "^2.3.9",
+    "gatsby-theme-garden": "^0.1.41",
+    "gatsby-transformer-remark": "^2.8.23",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-helmet": "^6.1.0"
   },
   "devDependencies": {
-    "gh-pages": "^3.0.0"
+    "gh-pages": "^3.1.0"
   }
 }

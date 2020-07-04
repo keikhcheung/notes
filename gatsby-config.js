@@ -32,7 +32,8 @@ module.exports = {
         ],
       },
     },
-    `gatsby-plugin-favicon`
+    `gatsby-plugin-favicon`,
+    `gatsby-plugin-react-helmet`
   ],
   siteMetadata: {
     title: `kei's notes`,

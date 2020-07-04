@@ -1,0 +1,10 @@
+.graph-button {
+  border: 0;
+  background: none;
+  cursor: pointer;
+  transform: scale(0.875); /*24.5px in height; balanced between light and dark icon*/
+}
+
+.graph-button svg g {
+  stroke: var(--link);
+}
