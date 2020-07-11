@@ -16,7 +16,7 @@ The act of learning in public keeps us closer to reality. When we share openly, 
 
 Other benefits of learning in public are similar to how [[Atomic research helps consolidating locked up knowledge in an organisation]]. It unlocks siloed knowledge and lightens the cognitive bias from personal interest.
 
-We would start to see the flaws and and nuance in others' point of view through feedback loop and peer review. This helps us go further in our learning with direction—maybe even shortcuts.
+We would start to see the flaws and and nuance in others' point of view[^3] through feedback loop and peer review. This helps us go further in our learning with direction—maybe even shortcuts.
 
 One noticeable impediment to sharing what we learn is our prejudice that writing on Internet is often purposeful. For example, we expect, intentionally or not, what we produce online is a piece of content for marketing—it should suit the audience's taste. In this way, we are setting very high bars for our creation. Sharing and even learning can become a chore filled with fear and devoid of enjoyment.
 
@@ -28,5 +28,6 @@ At other times, we may simply feel unsure and insecure about making what we thin
 
 [^1]: Ansari, Salman. ‘Why Bother?’. _Salman Ansari’s Blog_, 17 May 2020, [salman.io/posts/why-bother/](https://salman.io/posts/why-bother/). Accessed 4 July 2020.
 [^2]: Neill, Doug. _Elizabeth Gilbert on Learning in Public_. _YouTube_, uploaded by Verbal to Visual, 30 July 2019, www.youtube.com/watch?v=5hTo15vQ7qI.
+[^3]: Millerd, Paul. ‘#100: We Need 100x More Creators Online’. _Boundless by Paul Millerd_, 11 July 2020, [boundless.substack.com/p/100-we-need-100x-more-creators-online](https://boundless.substack.com/p/100-we-need-100x-more-creators-online). Accessed 11 July 2020.
 
 [Joel Hooks]: https://joelhooks.com/on-writing-more
