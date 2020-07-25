@@ -16,9 +16,9 @@ The act of learning in public keeps us closer to reality. When we share openly, 
 
 Other benefits of learning in public are similar to how [[Atomic research helps consolidating locked up knowledge in an organisation]]. It unlocks siloed knowledge and lightens the cognitive bias from personal interest.
 
-We would start to see the flaws and and nuance in others' point of view[^3] through feedback loop and peer review. This helps us go further in our learning with direction—maybe even shortcuts.
+We would start to see the flaws and and nuance in others’ point of view[^3] through feedback loop and peer review. This helps us go further in our learning with direction—maybe even shortcuts.
 
-One noticeable impediment to sharing what we learn is our prejudice that writing on Internet is often purposeful. For example, we expect, intentionally or not, what we produce online is a piece of content for marketing—it should suit the audience's taste. In this way, we are setting very high bars for our creation. Sharing and even learning can become a chore filled with fear and devoid of enjoyment.
+One noticeable impediment to sharing what we learn is our prejudice that writing on Internet is often purposeful. For example, we expect, intentionally or not, what we produce online is a piece of content for marketing—it should suit the audience’s taste. In this way, we are setting very high bars for our creation. Sharing and even learning can become a chore filled with fear and devoid of enjoyment.
 
 > ‘I’m using analytics to monitor what content performs well for my audience,’ as Joel Hooks [denounces][Joel Hooks] analytics is a toxic practice for blogging.
 
