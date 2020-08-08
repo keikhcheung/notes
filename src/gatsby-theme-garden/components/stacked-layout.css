@@ -18,9 +18,9 @@ html {
     Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
     Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
   font-variant-ligatures: common-ligatures;
-    -moz-font-feature-settings: "liga", "clig", "calt", "cpsp", "frac", "cv08";
-    -webkit-font-feature-settings: "liga", "clig", "calt", "cpsp", "frac", "cv08";
-    font-feature-settings: "liga", "clig", "calt", "cpsp", "frac", "cv08";
+    -moz-font-feature-settings: "liga", "clig", "calt", "cpsp", /*"frac", */"cv08";
+    -webkit-font-feature-settings: "liga", "clig", "calt", "cpsp", /*"frac", */"cv08";
+    font-feature-settings: "liga", "clig", "calt", "cpsp", /*"frac", */"cv08";
   line-height: 1.5;
 }
 
@@ -150,4 +150,8 @@ li {
   .note-columns-container {
     width: unset !important;
   }
+}
+
+.footnotes li a {
+  overflow-wrap: break-word;
 }

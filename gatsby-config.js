@@ -36,6 +36,6 @@ module.exports = {
     `gatsby-plugin-react-helmet`
   ],
   siteMetadata: {
-    title: `kei's notes`,
+    title: `kei’s notes`,
   },
 };
