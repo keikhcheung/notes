@@ -29,9 +29,11 @@ Running design research takes time. It may not always fit into the increment cyc
 
 - For Scrum in Agile: Incremental deliverables are to make work done transparent. It is not an exclusive framework to deny longer, yet meaningful tasks which need more time than the increment's length (Seiden).
 
+* * *
+
 ## Related
 
-[[Atomic research helps consolidating locked up knowledge in an organisation]]
+- [[Atomic research helps consolidating locked up knowledge in an organisation]]
 
 *Last update: 2020-08-08*
 
