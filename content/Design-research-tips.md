@@ -15,7 +15,7 @@ Always **trace** feature requests or requirements **back to user problems**. Som
 
 **User feedback** is not the only input for insights.
 
-- User feedback represents only the portion of customer/user needs from the existing users. There can be prospective user groups' needs. There can also be unvoiced insights lying in existing users' behaviour.
+- User feedback represents only the portion of customer/user needs from the existing users. There can be prospective user groups’ needs. There can also be unvoiced insights lying in existing users’ behaviour.
 - **Business insights** can also be part of the input for design research. That include business concerns, priorities, objectives and strategies.
 - Furthermore, **peripheral meta matters** in the surrounding environment can also provide insights. They can come from industry trends and competition. Especially for the latter, you can learn from their successes and failures (Yamashita).
 

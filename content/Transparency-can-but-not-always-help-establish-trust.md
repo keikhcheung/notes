@@ -20,7 +20,7 @@ Exposing legal terms & conditions of service agreement does not really attract a
 
 **Informed transparency** can help boost trustworthiness and earn (and sustain) trust. But trust is not necessarily given out on the basis of trustworthiness and transparency.
 
-- Mozilla provides information to users on trust leap action points so as to guide them through their informed decision-making. This brings transparency to the user, boost Mozilla's trustworthiness (regardless of their final choice on data collection consent), and eventually may help earn their trust (in providing user data).
+- Mozilla provides information to users on trust leap action points so as to guide them through their informed decision-making. This brings transparency to the user, boost Mozilla’s trustworthiness (regardless of their final choice on data collection consent), and eventually may help earn their trust (in providing user data).
 
 - Trading on the Dark Web is another example of making use of transparency to make trustworthiness tangible. Through collective review and qualitative experience sharing, people can become informed of trade procedures. Expectation can be set together with trustworthiness (--> [[Trust is different from trustworthiness]]), subsequently translating it into trust leap (--> [[Trust is the basic unit of human connection]]) and deals.
 

@@ -12,7 +12,7 @@ If a new person/object demonstrates traits of something/somebody we are used to 
 The same applies to our relation with (humanoid) robots.
 
 - Anthropomorphism (displaying human characters in robots) can help establish human trust, until the point when it is almost perfect but not yet (mixed feeling of creepiness and fascination). Masahiro Mori (robotics professor at Tokyo Institute of Technology) believes once that point is passed, perceived image will become again positive (Botsman; ch. 8).
-- People are more forgiving and recognising towards machines which show human faculties (e.g. emotions, faults and sympathy) than perfect, cold machines (cf. Bert C, the _sous-chef_ bot). ‘If you think machines are perfect and then they make a mistake, you don't trust them again,’ says Frank Krueger, cognitive psychologist and neuroscientist at George Mason University, expert on human-to-machine trust. (Botsman 181–183)
+- People are more forgiving and recognising towards machines which show human faculties (e.g. emotions, faults and sympathy) than perfect, cold machines (cf. Bert C, the _sous-chef_ bot). ‘If you think machines are perfect and then they make a mistake, you don’t trust them again,’ says Frank Krueger, cognitive psychologist and neuroscientist at George Mason University, expert on human-to-machine trust. (Botsman 181–183)
 
 This familiarity, however, can be manipulated for deceiving people.
 
