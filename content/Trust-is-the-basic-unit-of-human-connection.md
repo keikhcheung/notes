@@ -17,16 +17,17 @@ Small trust starts from an interpersonal level (e.g. trusting your friend in hel
 2. Advantages outweigh disadvantages in this connection.  
 --> [[The bad weigh more than the good]]
 
-3. Security in peers / [bandwagon effect](https://en.wikipedia.org/wiki/Bandwagon_effect) threshold is met.
+3. Security in peers / [bandwagon effect](https://en.wikipedia.org/wiki/Bandwagon_effect) threshold is met.  
+Familiarity can help meet this threshold (--> [[Familiarity transposes existing stances]]).
 
 
 Trust (same as technology or any other means/tools in general) can bridge over the gap to bring people closer. Nonetheless, it can also be misused for other personal/business purposes.
 
-One way of bending the equation is by **information asymmetry**—by not overtly providing relevant information but keeping the other party in the dark during trust building.
+- One way of bending the equation is by **information asymmetry**—by not overtly providing relevant information but keeping the other party in the dark during trust building.
 
-Placing trust in the wrong person/party could lead to detrimental results, especially when regulations cannot bridle them timely.
+- Placing trust in the wrong person/party could lead to detrimental results, especially when regulations cannot bridle them timely.
 
-Transparency properly brought to everyone (--> [[Transparency does not always help establish trust]]) can minimise this information asymmetry and provide an outsider’s view when making decisions (Kahneman; ch. 23).
+- Transparency properly brought to everyone (--> [[Transparency can but not always help establish trust]]) can minimise this information asymmetry and provide an outsider’s view when making decisions (Kahneman; ch. 23).
 
 Record of trust should help people to build trust. Yet, in a society which overweighs records, people without records are ousted from the prevalent trust building formula (paperwork).
 

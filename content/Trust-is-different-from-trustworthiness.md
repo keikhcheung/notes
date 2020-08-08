@@ -26,7 +26,7 @@ Empathy and goodwill. How much does this person care about the goal or commitmen
 
 Trustworthiness, as a quality, implies **reliability** and can be interpreted as (added) value. Trust (especially generalised trust or through collective review, for example), as a hallmark, can stoke security (--> [[Trust is the basic unit of human connection]]). Both of them can lever up willingness to pay risk premium in a transaction (Botsman; ch. 6).
 
-Informed transparency (--> [[Transparency does not always help establish trust]]) can help earning trustworthiness and eventually realise trust leap (build the trust and take it into action) or boost existing trust.
+Informed transparency (--> [[Transparency can but not always help establish trust]]) can help earning trustworthiness and eventually realise trust leap (build the trust and take it into action) or boost existing trust.
 
 *Last update: 2020-06-20*
 

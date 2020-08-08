@@ -10,7 +10,7 @@ The same heuristic principle can be applied to services. When a customer is prov
 --> [[Trust is different from trustworthiness]]
 
 By extension, visibility of status is pertinent to collaborative work. By externalising everyone’s status, it creates an objective pool of knowledge where every player is better equipped with information. Thus, they can produce better decision-making related to their own capacity and capability to further their contribution.  
---> [[Transparency does not always help establish trust]]
+--> [[Transparency can but not always help establish trust]]
 
 *Last update: 2020-07-26*
 
