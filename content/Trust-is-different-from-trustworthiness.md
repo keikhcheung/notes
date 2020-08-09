@@ -4,7 +4,7 @@ title: "Trust is different from trustworthiness"
 
 # Trust is different from trustworthiness
 
-Trust is different from trustworthiness. Trust is an _investment_ given out between two entities/parties and is contextual/purposeful. It responds to the question whether or not to place trust (in a person, institution or system). This can imply good and bad decisions. Trustworthiness is a quality unilaterally _earned_ from one side. It responds to the question whether the trust placed is really worth it. Aligning trust with trustworthiness gives the best outcome.
+Trust is different from trustworthiness. **Trust is an investment** given out between two entities/parties and is contextual/purposeful. It responds to the question whether or not to place trust (in a person, institution or system). This can imply good and bad decisions. **Trustworthiness is a quality** unilaterally _earned_ from one side. It responds to the question whether the trust placed is really worth it. Aligning trust with trustworthiness gives the best outcome.
 
 Trust depends on:
 

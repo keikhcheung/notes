@@ -8,21 +8,21 @@ Learning in public is about the act of sharing progressive knowledge with everyo
 
 We tend to keep what we learn to ourselves—be it wisdom, talent or insight. It is highly likely that these ideas and learning will wane off over time and may even never come to light. If we intend to keep them alive (i.e. their momentum and vividness) ourselves, it requires effort, motivation and cost (space in our mind, mental cavity). These internalised ideas will become a burden or even pain to us—the **pain of silence**[^1].
 
-Learning in public helps us align with the reality. We may think our ideas and learning are excellent or inferior. These comments might ruminate in our mind and point us to delusional pathways when we continue (or decide not to) on these premises. Making what we think and believe public encourages us to be less radical on our assessment by **aligning with reality**.
+Learning in public helps us **align with the reality**. We may think our ideas and learning are excellent or inferior. These comments might ruminate in our mind and point us to delusional pathways when we continue (or decide not to) on these premises. Making what we think and believe public encourages us to be less radical on our assessment by aligning with reality.
 
-- Reasons which we often give ourselves to refrain from releasing our ideas are that these ideas are not yet ready, or it is not the moment to make public. This _later_ easily can turn to _never_. And even when we do release our ideas in the end, they may have grown detached from the reality which has kept evolving concurrently.
+- Reasons which we often give ourselves to refrain from releasing our ideas are that these ideas are not yet ready, or it is not the moment to make public. This _later_ easily can turn to _never_. And even when we do release our ideas in the end, they may have grown detached from the reality which has **kept evolving** concurrently.
 
-- The act of learning in public keeps us closer to reality. When we share openly, we are more likely to not treat ourselves that ‘hard’ on the lessons learnt, but rather in ways akin to how treat a close friend. We moderate any particular experiences[^2].
+- The act of learning in public keeps us closer to reality. When we share openly, we are more likely to not treat ourselves that ‘hard’ on the lessons learnt, but rather in ways akin to how treat a close friend. We **moderate any particular experiences**[^2].
 
 Other benefits of learning in public are similar to how [[Atomic research helps consolidate locked up knowledge in an organisation]]. It **unlocks siloed knowledge**, lightens the cognitive bias from personal interest, helps others to learn, and in return also reward us also in our learning.
 
-- We would start to see the flaws and and nuance in others’ point of view[^3] through feedback loop and peer review. This helps us rethink our point of view and ways of working[^4], and go further in our learning with direction—maybe even shortcuts.
+- We would start to see the flaws and and nuance in others’ point of view[^3] through feedback loop and peer review. This helps us **rethink our point of view and ways of working**[^4], and go further in our learning with direction—maybe even shortcuts.
 
-One noticeable impediment to sharing what we learn is our prejudice that writing on Internet is often purposeful. For example, we expect, intentionally or not, what we produce online is a piece of content for marketing—it should suit the audience’s taste. In this way, we are setting very **high bars for our creation**. Sharing and even learning can become a chore filled with fear and devoid of enjoyment.
+One noticeable impediment to sharing what we learn is **our prejudice that writing on Internet is often purposeful**. For example, we expect, intentionally or not, what we produce online is a piece of content for marketing—it should suit the audience’s taste. In this way, we are setting very **high bars for our creation**. Sharing and even learning can become a chore filled with fear and devoid of enjoyment.
 
 - ‘I’m using analytics to monitor what content performs well for my audience,’ as Joel Hooks [denounces][Joel Hooks] analytics is a toxic practice for blogging.
 
-At other times, we may simply feel unsure and **insecure** about making what we think and learn public. This is normal. However, we can transform this from a suppressant into a propellant by embracing our curiosity and reducing the responsibility to anyone who may be interested by our sharing. We shall be responsible for our learning and creative work. The others are free to follow or not.
+At other times, we may simply feel unsure and **insecure** about making what we think and learn public. This is normal. However, we can transform this from a suppressant into a propellant by **embracing our curiosity** and **reducing the responsibility** to anyone who may be interested by our sharing. We shall be responsible for our learning and creative work. The others are free to follow or not.
 
 *Last update: 2020-08-09*
 

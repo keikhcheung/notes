@@ -8,7 +8,7 @@ To describe what trust is is hard. To describe where trust is is easier.
 
 Trust is needed when there is unknown between two parties who share the same interest/intention (**encapsulated interest**). The common interest/intention bring them together (e.g. trade, relationship, service). They both have expectation (--> [[Trust is weaken when beliefs are shaken]]) and vulnerability (different on both sides) this connection. Trust is needed from both sides to realise this connection and proceed to action, albeit there is unknown and risk.
 
-Small trust starts from an interpersonal level (e.g. trusting your friend in help). Bigger trust scales to an institutional level (e.g. trusting judiciary system will serve justice) or even on distrubuted networks (e.g. blockchain).
+Small trust **starts from an interpersonal level** (e.g. trusting your friend in help). Bigger trust scales to an institutional level (e.g. trusting judiciary system will serve justice) or even on distrubuted networks (e.g. blockchain).
 
 **Trust leap** (transforming trust into an action of change) happens when **trust stack** is complete. There are 3 criteria for erecting a full trust stack:
 
@@ -21,7 +21,7 @@ Small trust starts from an interpersonal level (e.g. trusting your friend in hel
 Familiarity can help meet this threshold (--> [[Familiarity transposes existing stances]]).
 
 
-Trust (same as technology or any other means/tools in general) can bridge over the gap to bring people closer. Nonetheless, it can also be misused for other personal/business purposes.
+Trust (same as technology or any other means/tools in general) can **bridge over the gap** to bring people closer. Nonetheless, it can also be misused for other personal/business purposes.
 
 - One way of bending the equation is by **information asymmetry**—by not overtly providing relevant information but keeping the other party in the dark during trust building.
 
@@ -29,7 +29,7 @@ Trust (same as technology or any other means/tools in general) can bridge over t
 
 - Transparency properly brought to everyone (--> [[Transparency can but not always help establish trust]]) can minimise this information asymmetry and provide an outsider’s view when making decisions (Kahneman; ch. 23).
 
-Record of trust should help people to build trust. Yet, in a society which overweighs records, people without records are ousted from the prevalent trust building formula (paperwork).
+Record of trust should help people to build trust. Yet, in a society which overweighs records, **people without records are ousted** from the prevalent trust building formula (paperwork).
 
 
 [[Trust is different from trustworthiness]]. Trust is an investment. Trustworthiness is a quality to earn.

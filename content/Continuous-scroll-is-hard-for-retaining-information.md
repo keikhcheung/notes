@@ -4,7 +4,7 @@ title: "Continuous scroll is hard for retaining information"
 
 # Continuous scroll is hard for retaining information
 
-Continuous scroll in digital environment is hard for retaining information. It weakens spatial recognition. One reason is that it does not allow perpetuating ideas. It is hard to retain the level/depth of scroll in our mind and associate it with information/ideas which come across. The gesture we perform to progress is uniform, confined in a restricted, two-dimensional space (e.g. touchpad, touchscreen, or browser window associated with the mouse wheel).
+Continuous scroll in digital environment is hard for retaining information. It weakens **spatial recognition**. One reason is that it does not allow perpetuating ideas. It is hard to retain the level/depth of scroll in our mind and associate it with information/ideas which come across. The gesture we perform to progress is uniform, confined in a restricted, two-dimensional space (e.g. touchpad, touchscreen, or browser window associated with the mouse wheel).
 
 - ‘Continuous scrolling interactions disrupt object permanence.’
 - ‘When I read a physical book, if I find myself lost, I can flip backwards a few pages, keeping my finger in my current reading spot.’[^1]
@@ -16,7 +16,7 @@ When you want to refer back to a piece of information you read earlier, how much
 It is often hard to roll back up a few paragraphs and highlight the ideas I only later recognise important. The complexity is severer when there are only texts, with similar paragraph lengths and no any remarkable images or visual markers to anchor.  
 --> [[Peripheral vision enhances discoverability]]
 
-What’s worse with continuous scrolling is when it is paired with automatic content refresh. It renders the mere spatial retention of content/information from scrolling obsolete. The frustration can be observed from social media platforms, where information and content are designed to be ephemeral.
+What’s worse with continuous scrolling is when it is paired with automatic content refresh. It renders the mere spatial retention of content/information from scrolling obsolete. The frustration can be observed from social media platforms, where **information and content are designed to be ephemeral**.
 
 Continuous scroll draws focus to the instantaneous part of information that is being read, but eclipses the overall, and hinders the assimilation and recall of what has been read. 
 
