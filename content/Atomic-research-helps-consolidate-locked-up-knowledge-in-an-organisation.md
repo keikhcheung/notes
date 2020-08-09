@@ -1,8 +1,8 @@
 ---
-title: "Atomic research helps consolidating locked up knowledge in an organisation"
+title: "Atomic research helps consolidate locked up knowledge in an organisation"
 ---
 
-# Atomic research helps consolidating locked up knowledge in an organisation
+# Atomic research helps consolidate locked up knowledge in an organisation
 
 Atomic research formats raw data into **reusable, re-discoverable and re-factorable information** for subsequent inductive research. It lengthens the lifetime of research inputs, turn research tangible & concise, and, when successfully implemented, break silos & connect knowledge across departments.
 
