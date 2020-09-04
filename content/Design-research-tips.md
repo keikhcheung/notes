@@ -35,7 +35,7 @@ Running design research takes time. It may not always fit into the increment cyc
 
 ## Related
 
-- [[Atomic research helps consolidating locked up knowledge in an organisation]]
+- [[Atomic research helps consolidate locked up knowledge in an organisation]]
 
 * * *
 
