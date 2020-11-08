@@ -9,7 +9,7 @@ In collaborative work, focus on building **shared understanding amongst the team
 --> [[Visibility of status empowers user control]]  
 --> [[Atomic research helps consolidate locked up knowledge in an organisation]]
 
-- Problem can arise, though, when information provided to them does not speak to them. This is akin to the exposed legal T&Cs problem to Internet / digital service users, where the majority agree to the conditions and neglect the details their rights (or even relinquish their rights).
+Problem can arise, though, when information provided to them does not speak to them. This is akin to the exposed legal T&Cs problem to Internet / digital service users, where the majority agree to the conditions and neglect the details their rights (or even relinquish their rights).
 
 --> [[Transparency can but not always help establish trust]]
 
