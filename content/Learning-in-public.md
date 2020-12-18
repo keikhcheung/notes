@@ -6,6 +6,8 @@ title: "Learning in public"
 
 Learning in public is about the act of sharing progressive knowledge with everyone.
 
+## Why public?
+
 We tend to keep what we learn to ourselves—be it wisdom, talent or insight. It is highly likely that these ideas and learning will wane off over time and may even never come to light. If we intend to keep them alive (i.e. their momentum and vividness) ourselves, it requires effort, motivation and cost (space in our mind, mental cavity). These internalised ideas will become a burden or even pain to us—the **pain of silence**[^1].
 
 Learning in public helps us **align with the reality**. We may think our ideas and learning are excellent or inferior. These comments might ruminate in our mind and point us to delusional pathways when we continue (or decide not to) on these premises. Making what we think and believe public encourages us to be less radical on our assessment by aligning with reality.
@@ -17,6 +19,8 @@ Learning in public helps us **align with the reality**. We may think our ideas a
 Other benefits of learning in public are similar to how [[Atomic research helps consolidate locked up knowledge in an organisation]]. It **unlocks siloed knowledge**, lightens the cognitive bias from personal interest, helps others to learn, and in return also reward us also in our learning.
 
 - We would start to see the flaws and and nuance in others’ point of view[^3] through feedback loop and peer review. This helps us **rethink our point of view and ways of working**[^4], and go further in our learning with direction—maybe even shortcuts.
+
+## Difficulties to overcome
 
 One noticeable impediment to sharing what we learn is **our prejudice that writing on Internet is often purposeful**. For example, we expect, intentionally or not, what we produce online is a piece of content for marketing—it should suit the audience’s taste. In this way, we are setting very **high bars for our creation**. Sharing and even learning can become a chore filled with fear and devoid of enjoyment.
 
