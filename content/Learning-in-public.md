@@ -20,7 +20,7 @@ Other benefits of learning in public are similar to how [[Atomic research helps 
 
 - We would start to see the flaws and and nuance in others’ point of view[^3] through feedback loop and peer review. This helps us **rethink our point of view and ways of working**[^4], and go further in our learning with direction—maybe even shortcuts.
 
-## Difficulties to overcome
+## Difficulties to overcome
 
 One noticeable impediment to sharing what we learn is **our prejudice that writing on Internet is often purposeful**. For example, we expect, intentionally or not, what we produce online is a piece of content for marketing—it should suit the audience’s taste. In this way, we are setting very **high bars for our creation**. Sharing and even learning can become a chore filled with fear and devoid of enjoyment.
 
