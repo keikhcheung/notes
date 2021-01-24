@@ -20,6 +20,8 @@ Other benefits of learning in public are similar to how [[Atomic research helps 
 
 - We would start to see the flaws and and nuance in others’ point of view[^3] through feedback loop and peer review. This helps us **rethink our point of view and ways of working**[^4], and go further in our learning with direction—maybe even shortcuts.
 
+After all, ideas are only as good as one you never had. Facts that no one else can reproduce is also no fact at all. Knowledge that does not live on is barely destined to become forgotten.[^5]
+
 ## Difficulties to overcome
 
 One noticeable impediment to sharing what we learn is **our prejudice that writing on Internet is often purposeful**. For example, we expect, intentionally or not, what we produce online is a piece of content for marketing—it should suit the audience’s taste. In this way, we are setting very **high bars for our creation**. Sharing and even learning can become a chore filled with fear and devoid of enjoyment.
@@ -28,11 +30,12 @@ One noticeable impediment to sharing what we learn is **our prejudice that writi
 
 At other times, we may simply feel unsure and **insecure** about making what we think and learn public. This is normal. However, we can transform this from a suppressant into a propellant by **embracing our curiosity** and **reducing the responsibility** to anyone who may be interested by our sharing. We shall be responsible for our learning and creative work. The others are free to follow or not.
 
-*Last update: 2020-08-09*
+*Last update: 2021-01-24*
 
 [^1]: Ansari, Salman. ‘Why Bother?’. _Salman Ansari’s Blog_, 17 May 2020, [salman.io/posts/why-bother/](https://salman.io/posts/why-bother/). Accessed 4 July 2020.
 [^2]: Neill, Doug. _Elizabeth Gilbert on Learning in Public_. _YouTube_, uploaded by Verbal to Visual, 30 July 2019, www.youtube.com/watch?v=5hTo15vQ7qI.
 [^3]: Millerd, Paul. ‘#100: We Need 100x More Creators Online’. _Boundless by Paul Millerd_, 11 July 2020, [boundless.substack.com/p/100-we-need-100x-more-creators-online](https://boundless.substack.com/p/100-we-need-100x-more-creators-online). Accessed 11 July 2020.
 [^4]: Oudt, Ramses. ‘How I take smart digital notes—Part 5: Organizing for output’. _Ramses’s Blog_, 13 July 2020, [ramses.blog/how-take-notes-part-5/](https://ramses.blog/how-take-notes-part-5/). Accessed 9 Aug 2020.
+[^5]: Ahrens, Sönke. _How To Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_. Sönke Ahrens, 2017, ch. 5.
 
 [Joel Hooks]: https://joelhooks.com/on-writing-more

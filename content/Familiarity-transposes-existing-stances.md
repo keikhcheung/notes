@@ -17,6 +17,7 @@ The same applies to our relation with (humanoid) robots.
 This familiarity, however, can be **manipulated for deceiving people**.
 
 - Illusion of information can be more dangerous than ignorance (cf. story of the deceitful nanny Doris from __The Lady__ magazine and how she tricked Botsman’s family into believing her identity) (Botsman; ch. 5).
+- Familiarity boosts trustworthiness of something we would access. For example, if people have seen a similar headline often, they would increasingly be prone to believing it (Singer and Emerson; ch. 5).
 - Note that anthropomorphism for the sake of building human trust can be done in parallel and independently of performing machine’s principal task (cf. People blame less self-driving program with a human voice – not even a body – when a programmed crash happens in a simulation test experience). (Botsman 198–202)
 
 This also explains why **intuition** based on past experiences and/or expertise **may not be reliable**, as we may **conflate an apparently familiar object/event too soon** with what we know whilst they can be actually dissimilar (Kahneman; ch. 21 & 22).  
@@ -28,7 +29,7 @@ We are used to **scanning for familiar traits** when we encounter unfamiliar mat
 - We generalise the obvious, known instance to place our judgement for the unknown. However, from the point of the obvious, known instance to the point where the final event happens, there are still various factors which can affect to eventual outcome.
 - To moderate bias, We can relativise our judgement by taking the known instance as just a base rate, then consider other possible factors, then the available data about all these factors, before finally making a decision. Often we will, hence, obtain a relative regression towards the mean (Kahneman; ch. 18).
 
-*Last update: 2020-08-08*
+*Last update: 2021-01-24*
 
 * * *
 
@@ -36,3 +37,5 @@ We are used to **scanning for familiar traits** when we encounter unfamiliar mat
 Botsman, Rachel. _Who Can You Trust? How Technology Brought Us Together and Why It Might Drive Us Apart_. Perseus Books, 2017.
 
 Kahneman, Daniel. _Thinking, Fast and Slow_. 1st ed., Farrar, Straus and Giroux, 2011.
+
+Singer, P. W. and Emerson T. Brooking. _LikeWar: The Weaponization of Social Media_. Houghton Mifflin Harcourt, 2018.
