@@ -6,7 +6,8 @@ title: "Trust is the basic unit of human connection"
 
 To describe what trust is is hard. To describe where trust is is easier.
 
-Trust is needed when there is unknown between two parties who share the same interest/intention (**encapsulated interest**). The common interest/intention bring them together (e.g. trade, relationship, service). They both have expectation (--> [[Trust is weaken when beliefs are shaken]]) and vulnerability (different on both sides) this connection. Trust is needed from both sides to realise this connection and proceed to action, albeit there is unknown and risk.
+Trust is needed when there is unknown between two parties who share the same interest/intention (**encapsulated interest**). The common interest/intention bring them together (e.g. trade, relationship, service). They both have expectation and vulnerability (different on both sides) this connection. Trust is needed from both sides to realise this connection and proceed to action, albeit there is unknown and risk.  
+==> [[Trust is weaken when beliefs are shaken]]
 
 Small trust **starts from an interpersonal level** (e.g. trusting your friend in help). Bigger trust scales to an institutional level (e.g. trusting judiciary system will serve justice) or even on distrubuted networks (e.g. blockchain).
 
@@ -15,10 +16,10 @@ Small trust **starts from an interpersonal level** (e.g. trusting your friend in
 1. Basic understanding of what the connection is about.
 
 2. Advantages outweigh disadvantages in this connection.  
---> [[The bad weigh more than the good]]
+==> [[The bad weigh more than the good]]
 
 3. Security in peers / [bandwagon effect](https://en.wikipedia.org/wiki/Bandwagon_effect) threshold is met.  
-Familiarity can help meet this threshold (--> [[Familiarity transposes existing stances]]).
+Familiarity can help meet this threshold (==> [[Familiarity transposes existing stances]]).
 
 
 Trust (same as technology or any other means/tools in general) can **bridge over the gap** to bring people closer. Nonetheless, it can also be misused for other personal/business purposes.
@@ -27,7 +28,7 @@ Trust (same as technology or any other means/tools in general) can **bridge over
 
 - Placing trust in the wrong person/party could lead to detrimental results, especially when regulations cannot bridle them timely.
 
-- Transparency properly brought to everyone (--> [[Transparency can but not always help establish trust]]) can minimise this information asymmetry and provide an outsider’s view when making decisions (Kahneman; ch. 23).
+- Transparency properly brought to everyone (==> [[Transparency can but not always help establish trust]]) can minimise this information asymmetry and provide an outsider’s view when making decisions (Kahneman; ch. 23).
 
 Record of trust should help people to build trust. Yet, in a society which overweighs records, **people without records are ousted** from the prevalent trust building formula (paperwork).
 

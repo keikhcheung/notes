@@ -12,7 +12,7 @@ In customer service and product development, transparency can **externalise stat
 - For some users, when they choose a product, apart from just the features, they also base their decision on your philosophy or vision.
 
 **Accountability** (i.e. clearing out responsibilities) can, to a certain extent, be part of the factors which affect trust bond establishment (but not always). This helps clear out uncertainty and minimise the perception of risk (by rounding the picture favourable for trust leap) (Kahneman; ch. 19).  
---> [[Trust is weaken when beliefs are shaken]]
+==> [[Trust is weaken when beliefs are shaken]]
 
 Exposing legal terms & conditions of service agreement does not really attract attention of the signee. This may be owing to the **mismatch of interest**, or the inability to digest the jargons.
 
@@ -22,7 +22,7 @@ Exposing legal terms & conditions of service agreement does not really attract a
 
 - Mozilla provides information to users on trust leap action points so as to guide them through their informed decision-making. This brings transparency to the user, boost Mozilla’s trustworthiness (regardless of their final choice on data collection consent), and eventually may help earn their trust (in providing user data).
 
-- Trading on the Dark Web is another example of making use of transparency to make trustworthiness tangible. Through collective review and qualitative experience sharing, people can become informed of trade procedures. Expectation can be set together with trustworthiness (--> [[Trust is different from trustworthiness]]), subsequently translating it into trust leap (--> [[Trust is the basic unit of human connection]]) and deals.
+- Trading on the Dark Web is another example of making use of transparency to make trustworthiness tangible. Through collective review and qualitative experience sharing, people can become informed of trade procedures. Expectation can be set together with trustworthiness (==> [[Trust is different from trustworthiness]]), subsequently translating it into trust leap (==> [[Trust is the basic unit of human connection]]) and deals.
 
 ## Question
 
