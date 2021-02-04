@@ -5,7 +5,7 @@ title: "Social media shape public opinion"
 # Social media shape public opinion
 
 Social media vector **public attention**. Public attention frames public ‘objective’ perspectives and what appears to be **genuine**. Hence, depending on where their attention is put, what the public believe can alter, especially when the diffused information in focus shares a certain degree of familiarity.  
---> [[Familiarity transposes existing stances]]
+==> [[Familiarity transposes existing stances]]
 
 - Because virality can overwhelm truth, what is known can be reshaped. “Power” on this battlefield [of authenticity] is thus measured not by physical strength or high-tech hardware, but by the command of attention. The result is a contest of psychological and algorithmic manipulation, fought through an endless churn of competing viral events. (Singer and Brooking; ch. 1)
 

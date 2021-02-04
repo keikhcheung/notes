@@ -5,7 +5,7 @@ title: "Design research tips"
 # Design research tips
 
 Design research helps **ground decision making on solid basis** and substantiate subsequent direction (instead of following our gut feeling).  
---> [[Intuition is feeble and unreliable]]
+==> [[Intuition is feeble and unreliable]]
 
 - As Yamashita shared his own experience: At the beginning of his time working in Figma, a lot of features/work were pushed and realised basing on people’s gut feeling (or preference); he joined the company as the VP of Product in April 2019 and has since then helped organise product development basing on stories and goals that they want to tell users, rooting on their in-house research.
 

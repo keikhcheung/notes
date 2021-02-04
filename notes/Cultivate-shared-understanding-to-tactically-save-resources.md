@@ -6,12 +6,12 @@ title: "Cultivate shared understanding to tactically save resources"
 
 In collaborative work, focus on building **shared understanding amongst the team**. This encourages everyone to acquire first-hand information, helps them retain their knowledge, reduces documentation, hand-offs & subsequent briefing, and enables team members to become proactive (Gothelf and Seiden).
 
---> [[Visibility of status empowers user control]]  
---> [[Atomic research helps consolidate locked up knowledge in an organisation]]
+==> [[Visibility of status empowers user control]]  
+==> [[Atomic research helps consolidate locked up knowledge in an organisation]]
 
 Problem can arise, though, when information provided to them does not speak to them. This is akin to the exposed legal T&Cs problem to Internet / digital service users, where the majority agree to the conditions and neglect the details their rights (or even relinquish their rights).
 
---> [[Transparency can but not always help establish trust]]
+==> [[Transparency can but not always help establish trust]]
 
 Balancing the use of time and having the correct people involved in your meetings are crucial. You want to avoid creating the feeling of meeting marathon or dragging the team’s spirit. If you want to maximise everyone’s participation, **optimise your use of their time**, and make sure topics discussed hold a significant relevance to the them.
 

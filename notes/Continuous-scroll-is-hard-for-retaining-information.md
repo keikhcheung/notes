@@ -14,15 +14,15 @@ When you want to refer back to a piece of information you read earlier, how much
 - ‘Interfaces with long scrollable regions (e.g. long texts, message histories) feel disorienting and fragile in part because application developers don’t regard scroll positions as an important piece of application state.’[^2]
 
 It is often hard to roll back up a few paragraphs and highlight the ideas I only later recognise important. The complexity is severer when there are only texts, with similar paragraph lengths and no any remarkable images or visual markers to anchor.  
---> [[Peripheral vision enhances discoverability]]
+==> [[Peripheral vision enhances discoverability]]
 
 What’s worse with continuous scrolling is when it is paired with automatic content refresh. It renders the mere spatial retention of content/information from scrolling obsolete. The frustration can be observed from social media platforms, where **information and content are designed to be ephemeral**.
 
 Continuous scroll draws focus to the instantaneous part of information that is being read, but eclipses the overall, and hinders the assimilation and recall of what has been read. 
 
 When you read, do you get more discouraged when need to scroll for long, or even when you do not know how much is left to scroll, compared to having a page number in mind?  
---> [[Visual markers help assimilate information]]  
---> [[Visibility of status empowers user control]]
+==> [[Visual markers help assimilate information]]  
+==> [[Visibility of status empowers user control]]
 
 *Last update: 2020-07-26*
 
