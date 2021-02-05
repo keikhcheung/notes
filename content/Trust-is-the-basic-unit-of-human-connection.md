@@ -28,11 +28,7 @@ Trust (same as technology or any other means/tools in general) can **bridge over
 
 - Placing trust in the wrong person/party could lead to detrimental results, especially when regulations cannot bridle them timely.
 
-<<<<<<< Updated upstream:content/Trust-is-the-basic-unit-of-human-connection.md
-- Transparency properly brought to everyone (--> [[Transparency can but not always help establish trust]]) can minimise this information asymmetry and provide an outsider’s view when making decisions (Kahneman; ch. 23).
-=======
 - Transparency properly brought to everyone can minimise this information asymmetry and provide an outsider’s view when making decisions (Kahneman; ch. 23). However, [[Transparency can but not always help establish trust]].
->>>>>>> Stashed changes:notes/Trust-is-the-basic-unit-of-human-connection.md
 
 Record of trust should help people to build trust. Yet, in a society which overweighs records, **people without records are ousted** from the prevalent trust building formula (paperwork).
 
