@@ -12,7 +12,7 @@ In customer service and product development, transparency can **externalise stat
 - For some users, when they choose a product, apart from just the features, they also base their decision on your philosophy or vision.
 
 **Accountability** (i.e. clearing out responsibilities) can, to a certain extent, be part of the factors which affect trust bond establishment (but not always). This helps clear out uncertainty and minimise the perception of risk (by rounding the picture favourable for trust leap) (Kahneman; ch. 19).  
---> [[Trust is weaken when beliefs are shaken]]
+==> [[Trust is weaken when beliefs are shaken]]
 
 Exposing legal terms & conditions of service agreement does not really attract attention of the signee. This may be owing to the **mismatch of interest**, or the inability to digest the jargons.
 

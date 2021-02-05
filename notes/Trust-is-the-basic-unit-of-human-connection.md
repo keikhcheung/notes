@@ -6,7 +6,8 @@ title: "Trust is the basic unit of human connection"
 
 To describe what trust is is hard. To describe where trust is is easier.
 
-Trust is needed when there is unknown between two parties who share the same interest/intention (**encapsulated interest**). The common interest/intention bring them together (e.g. trade, relationship, service). They both have expectation (--> [[Trust is weaken when beliefs are shaken]]) and vulnerability (different on both sides) this connection. Trust is needed from both sides to realise this connection and proceed to action, albeit there is unknown and risk.
+Trust is needed when there is unknown between two parties who share the same interest/intention (**encapsulated interest**). The common interest/intention bring them together (e.g. trade, relationship, service). They both have expectation and vulnerability (different on both sides) this connection. Trust is needed from both sides to realise this connection and proceed to action, albeit there is unknown and risk.  
+==> [[Trust is weaken when beliefs are shaken]]
 
 Small trust **starts from an interpersonal level** (e.g. trusting your friend in help). Bigger trust scales to an institutional level (e.g. trusting judiciary system will serve justice) or even on distrubuted networks (e.g. blockchain).
 
@@ -15,7 +16,7 @@ Small trust **starts from an interpersonal level** (e.g. trusting your friend in
 1. Basic understanding of what the connection is about.
 
 2. Advantages outweigh disadvantages in this connection.  
---> [[The bad weigh more than the good]]
+==> [[The bad weigh more than the good]]
 
 3. Security in peers / [bandwagon effect](https://en.wikipedia.org/wiki/Bandwagon_effect) threshold is met.  
 Familiarity can help meet this threshold.  

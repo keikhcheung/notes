@@ -21,7 +21,7 @@ This familiarity, however, can be **manipulated for deceiving people**.
 - Note that anthropomorphism for the sake of building human trust can be done in parallel and independently of performing machine’s principal task (cf. People blame less self-driving program with a human voice – not even a body – when a programmed crash happens in a simulation test experience). (Botsman 198–202)
 
 This also explains why **intuition** based on past experiences and/or expertise **may not be reliable**, as we may **conflate an apparently familiar object/event too soon** with what we know whilst they can be actually dissimilar (Kahneman; ch. 21 & 22).  
---> [[Intuition is feeble and unreliable]]
+==> [[Intuition is feeble and unreliable]]
 
 We are used to **scanning for familiar traits** when we encounter unfamiliar matters or situations, especially when we need to deal with the unfamiliar matters/situations.
 
