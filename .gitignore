@@ -97,3 +97,6 @@ nbproject
 *.rar
 *.tar
 *.zip
+
+# VS Code
+.vscode/
