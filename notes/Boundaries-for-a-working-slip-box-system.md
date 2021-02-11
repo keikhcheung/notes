@@ -27,7 +27,7 @@ A lean slip-box system is durable and timeless. Maintaining these hygiene factor
 
 - Permanent notes are evergreen by themselves as they are the ideas by themselves, not only reminders thereof (fleeting notes) or applied contextual instances (project notes).
 - Permanent notes are appropriated ideas (to our own learning/research interest). They are freed from the source context from which they arrive to us. They are reusable, re-discoverable and re-factorable.  
-==> [[Atomic research helps consolidate locked up knowledge in an organisation]]
+  ==> [[Atomic research helps consolidate locked up knowledge in an organisation]]
 - Permanent notes can be revised and rewritten as their content and our thoughts become stimulated by other findings later.
 - Ongoing discussions/corroboration/challenges to and with our permanent notes interweave and enrich our knowledge.
 
