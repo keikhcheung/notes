@@ -16,7 +16,7 @@ The same applies to our relation with (humanoid) robots.
 
 This familiarity, however, can be **manipulated for deceiving people**.
 
-- Illusion of information can be more dangerous than ignorance (cf. story of the deceitful nanny Doris from __The Lady__ magazine and how she tricked Botsman’s family into believing her identity) (Botsman; ch. 5).
+- Illusion of information can be more dangerous than ignorance (cf. story of the deceitful nanny Doris from _The Lady_ magazine and how she tricked Botsman’s family into believing her identity) (Botsman; ch. 5).
 - Familiarity boosts trustworthiness of something we would access. For example, if people have seen a similar headline often, they would increasingly be prone to believing it (Singer and Emerson; ch. 5).
 - Note that anthropomorphism for the sake of building human trust can be done in parallel and independently of performing machine’s principal task (cf. People blame less self-driving program with a human voice – not even a body – when a programmed crash happens in a simulation test experience). (Botsman 198–202)
 

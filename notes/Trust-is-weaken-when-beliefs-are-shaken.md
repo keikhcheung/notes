@@ -26,4 +26,4 @@ Accountability (and the deed and manner to bear responsibilities) is crucial in 
 ## References
 Botsman, Rachel. _Who Can You Trust? How Technology Brought Us Together and Why It Might Drive Us Apart_. Perseus Books, 2017.
 
-[Uber case]: https://www.theguardian.com/us-news/2020/sep/16/uber-self-driving-car-death-safety-driver-charged
+
