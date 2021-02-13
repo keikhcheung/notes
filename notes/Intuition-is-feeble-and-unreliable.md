@@ -8,11 +8,11 @@ Intuition may develop from pure gut feeling and trained expertise.
 
 Intuition from **gut feeling** is exclusive and subjective. It is hard to base stances on objectivise arguments.
 
-- Intuitions are often overpowered by our belief in the **halo effect** (Kahneman; ch. 7). Whenever it could be replaced by a formula, we should consider it. Then consider the human comment as a supplement if necessary (Kahneman; ch. 21).
+- Intuitions are often overpowered by our belief in the **halo effect** (Kahneman; ch. 7). Whenever it could be replaced by a formula, we should consider it. Then consider the human comment as a supplement if necessary (Kahneman; ch. 21).
 
 Intuition can derive from our **experience over time**. These experiences sediment to form **expertise** related to particular fields of activity.
 
-- Expertise is formed through **prolonged exposure to regularities**. But what you see is all there is (WYSIATI) (Kahneman; ch. 7). Intuition can be trained (from expertise) through practice and feedback, especially when the cycle is short (to see results), so that the person can adjust and develop the expert knowledge. Same expertise, if applied to a different field, or a different time period length (far in the future), would not be relevant.
+- Expertise is formed through **prolonged exposure to regularities**. But what you see is all there is (WYSIATI) (Kahneman; ch. 7). Intuition can be trained (from expertise) through practice and feedback, especially when the cycle is short (to see results), so that the person can adjust and develop the expert knowledge. Same expertise, if applied to a different field, or a different time period length (far in the future), would not be relevant.
 - Hence, we can never fully assure ourselves if our expertise from past experience is indubitably applicable to any current situation which we are witnessing. We may recognise the present instance as a repetition of some similar past event(s). But WYSIATI. The genuine nature of the **present instance may be indeed different** from the past, only though we have not perceived its dissimilarity.  
   ==> [[Familiarity-transposes-existing-stances]]
 
@@ -26,7 +26,7 @@ That being said, it is noteworthy that intuition—incorporated, sedimented expe
 * * *
 
 ## References
-Ahrens, Sönke. _How To Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_. Sönke Ahrens, 2017, ch. 12.
+Ahrens, Sönke. _How To Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_. Sönke Ahrens, 2017, ch. 12.
 
 Kahneman, Daniel. _Thinking, Fast and Slow_. 1st ed., Farrar, Straus and Giroux, 2011.
 

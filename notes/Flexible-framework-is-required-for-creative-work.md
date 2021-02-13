@@ -1,23 +1,23 @@
 # Flexible framework is required for creative work
 
-Planning for open-ended work like research or creative tasks forces us to work in a rigid framework, which contradicts the serendipitous discovery of insights and emergence of ideas. Instead of focusing on primary planning, we should ==foster a smooth workflow that allows the arrival of new ideas and maximises how they may benefit our work.== (Ahrens; ch. 1)
+Planning for open-ended work like research or creative tasks forces us to work in a rigid framework, which contradicts the serendipitous discovery of insights and emergence of ideas. Instead of focusing on primary planning, we should **foster a smooth workflow that allows the arrival of new ideas** and **maximises how they may benefit our work.** (Ahrens; ch. 1)
 
 The strategy can be broken down into two parts: namely tackling idea capture and idea application.
 
 Idea capture is about **curating an environment that induces creativity**. This is similar to setting up wildlife parks or natural reserves for restoring flora and fauna. Start by creating a favourable habitat and maintaining the its conditions instead of planning for the very coming of every species.
-> Creativity cannot be taught like a rule or approached like a plan. But we can make sure that our working environment allows us to be creative with ideas. (Ahrens; ch. 12)
+> Creativity cannot be taught like a rule or approached like a plan. But we can make sure that our working environment allows us to be creative with ideas. (Ahrens; ch. 12)
 
-For the aspect of idea application, we have to look into how we may **assist abstracting the gist of concepts**. The easier we can turn the detachment of concepts from the sources we come across, the more pliable and transposable these concepts can become, and the readier they are to inspire our work beyond the fences of disciplines. Hence, we need to allow an efficient and flexible system to handle the mass of knowledge we receive. (Ahrens; ch. 1)  
+For the aspect of idea application, we have to look into how we may **assist abstracting the gist of concepts**. The easier we can turn the detachment of concepts from the sources we come across, the more pliable and transposable these concepts can become, and the readier they are to inspire our work beyond the fences of disciplines. Hence, we need to allow an efficient and flexible system to handle the mass of knowledge we receive. (Ahrens; ch. 1)  
 <!--==> [[Knowledge is locked up if not freed from the source context]]-->
 
 Apart from a flexible framework, which would serve as a tool, creative people also need to acquire a flexible mindset. The capability to **switch between a wandering, explorative mind and the meticulous, analytical rationality** at the right moment and for the right task is indispensable.
-> “On one hand, those with wandering, defocused, childlike minds seem to be the most creative; on the other, it seems to be analysis and application that’s important. The answer to this conundrum is that creative people need both ... The key to creativity is being able to switch between a wide-open, playful mind and a narrow analytical frame.” (Dean, 2013, 152) (Ahrens; ch. 9)
+> “On one hand, those with wandering, defocused, childlike minds seem to be the most creative; on the other, it seems to be analysis and application that’s important. The answer to this conundrum is that creative people need both ... The key to creativity is being able to switch between a wide-open, playful mind and a narrow analytical frame.” (Dean, 2013, 152) (Ahrens; ch. 9)
 
 Keeping ideas in a flexible framework—which is still a framework—may sound self-contradictory. Yet, a standardised structure with clear restrictions works well to allow us to focus on creativity *with it* and *against it*. It helps us compare similarities and differences. Conversely, the lack of structure and restrictions (or process) can engender paralysis. That makes it hard to differentiate, compare or experiment with new possibilities.  
 ==> [[Attention, work and workflow]]  
 ==> [[Note-taking is different from note-making]]
 
-> A clear structure allows us to explore the internal possibilities of something. Even the act of breaking with convention depends on it. (Ahrens; ch. 12)
+> A clear structure allows us to explore the internal possibilities of something. Even the act of breaking with convention depends on it. (Ahrens; ch. 12)
 
 *Last update: 2021-02-13*
 

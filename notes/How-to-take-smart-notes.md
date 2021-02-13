@@ -8,15 +8,15 @@ Tags:
 
 # How To Take Smart Notes
 
-How To Take Smart Notes is a guidebook on the information management, written and self-published by Sönke Ahrens in 2014.
+_How To Take Smart Notes_ is a guidebook on the information management, written and self-published by Sönke Ahrens in 2014.
 
 ## The book
 
 The book can be divided into two sections.
 
-The first sections (ch. 1–4) introduces the ‘slip-box’ system (or *Zettelkasten* in German), which was made famous by a prolific sociologist Niklas Luhmann from the 20th century whose research works and publications branches across amazingly diverse disciplines.
+The first sections (ch. 1–4) introduces the ‘slip-box’ system (or *Zettelkasten* in German), which was made famous by a prolific sociologist Niklas Luhmann from the 20th century whose research works and publications branches across amazingly diverse disciplines.
 
-The second sections first problematises how creative work is often misregarded and performed rather ineffectively or counter-intuitively (ch. 5–8). It then offers arguments how a slip-box system can function as an idea multiplier when paired with a proper mindset (ch. 9–14).
+The second sections first problematises how creative work is often misregarded and performed rather ineffectively or counter-intuitively (ch. 5–8). It then offers arguments how a slip-box system can function as an idea multiplier when paired with a proper mindset (ch. 9–14).
 
 ## The review
 

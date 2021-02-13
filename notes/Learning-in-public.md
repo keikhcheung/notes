@@ -36,10 +36,10 @@ At other times, we may simply feel unsure and **insecure** about making what we 
 
 [^1]: Ansari, Salman. ‘Why Bother?’. _Salman Ansari’s Blog_, 17 May 2020, [salman.io/posts/why-bother/](https://salman.io/posts/why-bother/). Accessed 4 July 2020.
 [^2]: Neill, Doug. _Elizabeth Gilbert on Learning in Public_. _YouTube_, uploaded by Verbal to Visual, 30 July 2019, www.youtube.com/watch?v=5hTo15vQ7qI.
-[^3]: Ahrens, Sönke. _[[How To Take Smart Notes]]: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_. Sönke Ahrens, 2017, ch. 8.
+[^3]: Ahrens, Sönke. _[[How To Take Smart Notes]]: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_. Sönke Ahrens, 2017, ch. 8.
 [^4]: Millerd, Paul. ‘#100: We Need 100x More Creators Online’. _Boundless by Paul Millerd_, 11 July 2020, [boundless.substack.com/p/100-we-need-100x-more-creators-online](https://boundless.substack.com/p/100-we-need-100x-more-creators-online). Accessed 11 July 2020.
 [^5]: Oudt, Ramses. ‘How I take smart digital notes—Part 5: Organizing for output’. _Ramses’s Blog_, 13 July 2020, [ramses.blog/how-take-notes-part-5/](https://ramses.blog/how-take-notes-part-5/). Accessed 9 Aug 2020.
-[^6]: Ahrens, *op. cit.*, ch. 5.
+[^6]: Ahrens, *op. cit.*, ch. 5.
 
 [Joel Hooks]: https://joelhooks.com/on-writing-more
 
