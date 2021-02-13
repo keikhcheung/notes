@@ -1,6 +1,6 @@
+# Note-taking is different from note-making
 
-
-Note-taking is for **rapid capture** and [quick reference later][Anne-Laure Le Cunff]. It is instant. Note-taken information touches only the surface of our memory entry and is poorly assimilated. In general, it has low retrievability. What we wrote down as a short note for recall tend to fade away quickly over time.(Ahrens; ch. 10)
+Note-taking is for **rapid capture** and [quick reference later][Anne-Laure Le Cunff]. It is instant.[^1] Note-taken information touches only the surface of our memory entry and is poorly assimilated. In general, it has low retrievability. What we wrote down as a short note for recall tend to fade away quickly over time.(Ahrens; ch. 10)
 
 On the upside, note-taking has the benefit of freeing our mind from the burden of constantly holding on to a certain thing. It **liberates the mental resource** required to sustain this remembrance and allows us to focus on other tasks/matters, such as creative work (Ahrens; ch. 9).
 
@@ -13,8 +13,8 @@ Even though not every note may appear to be useful for the moment, note-making a
 
 
 ## Further reading
-- Le Cunff, Anne-Laure. ‘From note-taking to note-making’, *Ness Labs*. https://nesslabs.com/from-note-taking-to-note-making.
-- Le Cunff, Anne-Laure. ‘The generation effect’, *Ness Labs*. https://nesslabs.com/generation-effect-3.
+- [From note-taking to note-making](https://nesslabs.com/from-note-taking-to-note-making) (*Ness Labs*)
+- [The generation effect](https://nesslabs.com/generation-effect-3) (*Ness Labs*)
 
 [^1]: As [Anne-Laure Le Cunff] quoted from [Edgar Wright] about study methods: ‘Note-taking often happens while listening; the goal is to quickly capture content so we can refer back to it later. Note-making is more common while reading; it consists in deliberately crafting our own version so we can learn and create better.’
 
