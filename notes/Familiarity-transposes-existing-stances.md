@@ -6,7 +6,7 @@ title: "Familiarity transposes existing stances"
 
 If a new person/object demonstrates traits of something/somebody we are used to trusting, we are more likely to **shift our existing trust** to this new entity. Similarly, distrust and other sentiments may also work in the same way.
 
-- ‘Mere-exposure effect’ or **‘Law of Familiarity’** (by Professor Robert B. Zajonc) explains that humans have a tendency to be more comfortable around people or like things more when they are familiar to us. This helps to ease establishing trust at the first step (Botsman; ch. 3).
+- ‘[Mere-exposure effect]’ or **‘Law of Familiarity’** (by Professor Robert B. Zajonc) explains that humans have a tendency to be more comfortable around people or like things more when they are familiar to us. This helps to ease establishing trust at the first step (Botsman; ch. 3).
 - When we are in a situation which makes us cognitively at ease, we feel it familiar, true, good(-natured; hence liking, cf. exposure effect), and effortless. Our thinking tends to be more casual and superficial. When we are cognitively strained, we are more likely to be vigilant (cf. evolution), suspicious (cf. social system), invest more effort in the doing, feel less comfortable, make fewer errors but become less intuitive and less creative (Kahneman; ch. 5). 
 
 The same applies to our relation with (humanoid) robots.
@@ -28,6 +28,8 @@ We are used to **scanning for familiar traits** when we encounter unfamiliar mat
 - When we predict outcome in the future or make a decision on it, we often regress to similar, instantaneous, representative events which are temporally more available to us (e.g. grading a particular student project will make reference for grading their GPA at graduation when we are asked to project it).
 - We generalise the obvious, known instance to place our judgement for the unknown. However, from the point of the obvious, known instance to the point where the final event happens, there are still various factors which can affect to eventual outcome.
 - To moderate bias, We can relativise our judgement by taking the known instance as just a base rate, then consider other possible factors, then the available data about all these factors, before finally making a decision. Often we will, hence, obtain a relative regression towards the mean (Kahneman; ch. 18).
+
+[Mere-exposure effect]: https://en.wikipedia.org/wiki/Mere-exposure_effect
 
 *Last update: 2021-01-24*
 

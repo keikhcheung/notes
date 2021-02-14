@@ -4,6 +4,7 @@ Tags:
   - reference-book 
   - Note-taking
   - Personal Knowledge Management
+type: book
 ---
 
 # How To Take Smart Notes
