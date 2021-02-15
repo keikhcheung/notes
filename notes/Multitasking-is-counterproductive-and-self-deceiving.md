@@ -13,9 +13,9 @@ We think we get better at multitasking by attempting/practising it more often. T
 
 The more we attempt to multitask, the worse we actually become at it. We actually do not practise multi-TASKing, we practise frequent shift of attention and getting less done at a time.
 
-- ‘While those who multitasked felt more productive, their productivity actually decreased – a lot (Wang and Tchernev 2012; Rosen 2008; Ophir, Nass, and Wagner 2009). Not only the quantity but also the quality of their accomplishments lagged significantly behind that of the control group.
-- ‘But what is most interesting about these studies is not the fact that the productivity and the quality of the work decreases with multitasking, but that it also impairs the ability to deal with more than one thing at a time!
-- ‘This result is surprising, because we usually expect to become better at something the more often we do it. But on a closer look, it makes sense. Multitasking is not what we think it is. It is not focusing attention on more than one thing at a time. Nobody can do that. When we think we multitask, what we really do is shift our attention quickly between two (or more) things. And every shift is a drain on our ability to shift and delays the moment we manage to get focused again. Trying to multitask fatigues us and decreases our ability to deal with more than one task.’ (Ahrens)
+- *‘While those who multitasked felt more productive, their productivity actually decreased – a lot (Wang and Tchernev 2012; Rosen 2008; Ophir, Nass, and Wagner 2009). Not only the quantity but also the quality of their accomplishments lagged significantly behind that of the control group.*
+- *‘But what is most interesting about these studies is not the fact that the productivity and the quality of the work decreases with multitasking, but that it also impairs the ability to deal with more than one thing at a time!*
+- *‘This result is surprising, because we usually expect to become better at something the more often we do it. But on a closer look, it makes sense. Multitasking is not what we think it is. It is not focusing attention on more than one thing at a time. Nobody can do that. When we think we multitask, what we really do is shift our attention quickly between two (or more) things. And every shift is a drain on our ability to shift and delays the moment we manage to get focused again. Trying to multitask fatigues us and decreases our ability to deal with more than one task.’* (Ahrens)
 
 [Mere-Exposure Effect]: https://en.wikipedia.org/wiki/Mere-exposure_effect
 

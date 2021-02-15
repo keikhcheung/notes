@@ -9,7 +9,7 @@ Note-making is about **connecting thoughts** and perpetuating understanding into
 To make effective notes, **write objectively**, as if we are explaining a concept to a third person. This neutral, standardised way of note-making may seem unnatural but will help us spot similarities, differences and nuances amongst ideas durably (Ahrens; ch. 12). It will grow to become recognised subconsciously.  
 ==> [[Heuristics for interaction design]]
 
-Even though not every note may appear to be useful for the moment, note-making also prepares **serendipitous discovery** and **insights for your future thoughts** (Ahrens; ch. 2). It is similar to the 'verbund' concept in chemistry, where by-products are used as resource elements for another intended production later on (Ahrens; ch. 13). Thanks to the networked connections, you would have a lot more entry points (hence a higher chance) to stumble upon previously associated ideas. You will also be more confident with your ideas as your connected notes make a thought-through trove of supporting arguments (Ahrens; ch. 7).
+Even though not every note may appear to be useful for the moment, note-making also prepares **serendipitous discovery** and **insights for your future thoughts** (Ahrens; ch. 2). It is similar to the ‘verbund’ concept in chemistry, where by-products are used as resource elements for another intended production later on (Ahrens; ch. 13). Thanks to the networked connections, you would have a lot more entry points (hence a higher chance) to stumble upon previously associated ideas. You will also be more confident with your ideas as your connected notes make a thought-through trove of supporting arguments (Ahrens; ch. 7).
 
 
 

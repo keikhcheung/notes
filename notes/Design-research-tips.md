@@ -27,7 +27,7 @@ Development and testing is not the only way to get input for insights.
 
 Running design research takes time. It may not always fit into the increment cycle in Scrum for demonstrating deliverables. Yet, to maintain transparency across a working team, show the incremental progress in design research. This provides a platform for feedback collection, and can perhaps enrich insights coming from other input sources.
 
-- For Scrum in Agile: Incremental deliverables are to make work done transparent. It is not an exclusive framework to deny longer, yet meaningful tasks which need more time than the increment's length (Seiden).
+- For Scrum in Agile: Incremental deliverables are to make work done transparent. It is not an exclusive framework to deny longer, yet meaningful tasks which need more time than the increment’s length (Seiden).
 
 *Last update: 2020-08-08*
 
@@ -42,7 +42,7 @@ Running design research takes time. It may not always fit into the increment cyc
 ## References
 DePaul, Nicolas. How to run remote user testing at scale. Figma, 21 July 2020, [www.youtube.com/watch?v=aEN4VIYAf64](https://www.youtube.com/watch?v=aEN4VIYAf64).
 
-Seiden, Joshua, narrator. ‘Author Joshua Seiden: Measuring work and rethinking goal setting’. _Design Better_, season 4, episode 7, InVision, 5 May 2020, [www.designbetter.co/podcast/joshua-seiden](https://www.designbetter.co/podcast/joshua-seiden).
+Seiden, Joshua, narrator. ‘Author Joshua Seiden: Measuring work and rethinking goal setting’. _Design Better_, season 4, episode 37, InVision, 5 May 2020, [www.designbetter.co/podcast/joshua-seiden](https://www.designbetter.co/podcast/joshua-seiden).
 
 Yamashita, Yuhki. What’s Next After Product-Market Fit?. Figma, 29 July 2020, [www.youtube.com/watch?v=ZjXpJk-iByY](https://www.youtube.com/watch?v=ZjXpJk-iByY).
 
