@@ -22,8 +22,8 @@ Apart from a flexible framework, which would serve as a tool, creative people al
 - Ideas come from playing with the unconscious. *‘You’ve got to allow it to grow because you can’t start criticising it until you really understand what you may be coming up with. Then you have to bring your normal, everyday, critical mind into being to see whether it’s a good idea or not.’* (Cleese)
 
 Keeping ideas in a flexible framework—which is still a framework—may sound self-contradictory. Yet, a standardised structure with clear restrictions works well to allow us to focus on creativity *with it* and *against it*. It helps us compare similarities and differences. Conversely, the lack of structure and restrictions (or process) can engender paralysis. That makes it hard to differentiate, compare or experiment with new possibilities.  
-<!-->==> [[Attention, work and workflow]]  -->
 ==> [[Note-taking is different from note-making]]
+<!-->==> [[Attention, work and workflow]] ; 1 line up  -->
 
 - A clear structure allows us to explore the internal possibilities of something. Even the act of breaking with convention depends on it. (Ahrens; ch. 12)
 
@@ -35,7 +35,7 @@ Keeping ideas in a flexible framework—which is still a framework—may sound s
 
 Ahrens, Sönke. *[[How To Take Smart Notes]]: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*. Sönke Ahrens, 2017.
 
-Cleese, John, narrator. ‘John Cleese: A cheerful guide to creativity’. _Design Better_, season 5, episode 48, InVision, 26 Jan 2021, [www.designbetter.co/podcast/john-cleese](https://www.designbetter.co/podcast/john-cleese).
+Cleese, John, narrator. ‘John Cleese: A cheerful guide to creativity’. _Design Better_, season 5, episode 48, InVision, 26 Jan 2021, [www.designbetter.co/podcast/john-cleese](https://www.designbetter.co/podcast/john-cleese). Accessed 15 Feb. 2021.
 
 Dean, Jeremy. *Making Habits, Breaking Habits: Why We Do Things, Why We Don’t, and How to Make Any Change Stick*. Da Capo Press, 2013.
 
