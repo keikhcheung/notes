@@ -22,12 +22,12 @@ Apart from a flexible framework, which would serve as a tool, creative people al
 - Ideas come from playing with the unconscious. *‘You’ve got to allow it to grow because you can’t start criticising it until you really understand what you may be coming up with. Then you have to bring your normal, everyday, critical mind into being to see whether it’s a good idea or not.’* (Cleese)
 
 Keeping ideas in a flexible framework—which is still a framework—may sound self-contradictory. Yet, a standardised structure with clear restrictions works well to allow us to focus on creativity *with it* and *against it*. It helps us compare similarities and differences. Conversely, the lack of structure and restrictions (or process) can engender paralysis. That makes it hard to differentiate, compare or experiment with new possibilities.  
+==> [[Attention, work and workflow]]  
 ==> [[Note-taking is different from note-making]]
-<!-->==> [[Attention, work and workflow]] ; 1 line up  -->
 
 - A clear structure allows us to explore the internal possibilities of something. Even the act of breaking with convention depends on it. (Ahrens; ch. 12)
 
-*Last update: 2021-02-16*
+*Last update: 2021-02-18*
 
 * * *
 
