@@ -1,5 +1,7 @@
 ---
 title: "Trust is weaken when beliefs are shaken"
+Tags:
+  - Trust-building
 ---
 
 # Trust is weaken when beliefs are shaken

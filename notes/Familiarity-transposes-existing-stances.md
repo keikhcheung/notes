@@ -1,5 +1,7 @@
 ---
 title: "Familiarity transposes existing stances"
+Tags:
+  - Cognitive Science
 ---
 
 # Familiarity transposes existing stances

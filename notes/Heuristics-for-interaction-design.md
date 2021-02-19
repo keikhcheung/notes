@@ -1,3 +1,7 @@
+---
+Tags:
+  - UX-UI
+---
 # Heuristics for interaction design
 
 Jakob Nielsen listed [10 general principles][NN/g] for heuristic evaluation. These principles are highly flexible and transposable to many different contexts beyond usability and interaction design.

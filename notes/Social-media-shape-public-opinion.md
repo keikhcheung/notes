@@ -1,5 +1,7 @@
 ---
 title: "Social media shape public opinion"
+Tags:
+  - Social Media
 ---
 
 # Social media shape public opinion

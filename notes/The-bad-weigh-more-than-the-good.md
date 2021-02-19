@@ -1,5 +1,7 @@
 ---
 title: "The bad weigh more than the good"
+Tags:
+  - Cognitive Science
 ---
 
 # The bad weigh more than the good

@@ -1,5 +1,7 @@
 ---
 title: "Intuition is feeble and unreliable"
+Tags:
+  - Cognitive Science
 ---
 
 # Intuition is feeble and unreliable

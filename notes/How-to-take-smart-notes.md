@@ -3,7 +3,7 @@ Tags:
   - book 
   - reference-book 
   - Note-taking
-  - Personal Knowledge Management
+  - Knowledge Management
 type: book
 ---
 
