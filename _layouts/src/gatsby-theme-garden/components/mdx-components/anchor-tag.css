@@ -26,8 +26,8 @@
 
 .popover h2 {
   margin: 0;
-  padding: 0;
-  font-size: 0.9rem;
+  padding: 0.5rem 0 0 0;
+  font-size: 0.875rem;
 }
 
 .popover ul {
