@@ -17,7 +17,7 @@ We can only **remember a maximum of 7(±2) things** in mind at the same time (M
 Our brain **does not distinguish** between open, incomplete tasks/items/information with closed, done counterparts. Every item we need to keep in mind takes up mental resource.
 
   - Therefore, it is wise to unload them in a reliable system, e.g. as fleeting notes in a slip-box system. It helps us to focus back on things that matter for the moment being and deal with them in a favourable time later again.  
-    --> [[Boundaries for a working slip-box system]]
+    ==> [[Boundaries for a working slip-box system]]
     - *‘Our brain does not distinguish a finished task or an unfinished task in our memory. By writing the task down, it off-loads our mental resources for other things to focus on.*
     - *‘But thanks to [Zeigarnik]’s follow-up research, we also know that we don’t actually have to finish tasks to convince our brains to stop thinking about them. All we have to do is to write them down in a way that convinces us that it will be taken care of. That’s right: The brain doesn’t distinguish between an actual finished task and one that is postponed by taking a note. By writing something down, we literally get it out of our heads.’*(Ahrens; ch. 9)
 
