@@ -4,14 +4,14 @@ body.light-mode {
   --text: #1a202c;
   --separator: #e2e8f0;
   --shadow: rgba(0, 0, 0, 0.1);
-  --link: #3182ce;
+  --link: #e6b60b; /*#3182ce;*/
 }
 
 body.light-mode {
-  --references-bg: #ebf4ff;
-  --references-bg-80: #ebf4ffcc;
-  --references-text: #718096;
-  --references-highlight: #4a5568;
+  --references-bg: #fffae7; /*#ebf4ff;*/
+  --references-bg-80: #fffae7cc; /*#ebf4ffcc;*/
+  --references-text: #b38d08; /*#718096;*/
+  --references-highlight: #665105; /*#4a5568;*/
 }
 
 body.light-mode code,
