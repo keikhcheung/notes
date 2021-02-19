@@ -6,7 +6,7 @@ Tags:
 # Flexible framework is required for creative work
 
 Planning for open-ended work like research or creative tasks forces us to work in a rigid framework, which contradicts the serendipitous discovery of insights and emergence of ideas. Instead of focusing on primary planning, we should **foster a smooth workflow that allows the arrival of new ideas** and **maximises how they may benefit our work.** (Ahrens; ch. 1)
-- ‘The whole point is about [creative] play is it is unpredictable. In our culture now, what people want more than anything else is clarity. Everybody wants clarity and clarity quickly. One of the characteristics of creative people is that they can live in confusion quick happily if they quite enjoy it. They don’t feel they have to be clear about everything. It is incredibly important that you don’t really know where you are going.’ (Cleese)
+- *‘The whole point is about [creative] play is it is unpredictable. In our culture now, what people want more than anything else is clarity. Everybody wants clarity and clarity quickly. One of the characteristics of creative people is that they can live in confusion quick happily if they quite enjoy it. They don’t feel they have to be clear about everything. It is incredibly important that you don’t really know where you are going.’* (Cleese)
 
 The strategy can be broken down into two parts: namely tackling idea capture and idea application.
 
