@@ -4,7 +4,7 @@ body.light-mode {
   --text: #1a202c;
   --separator: #e2e8f0;
   --shadow: rgba(0, 0, 0, 0.1);
-  --link: #e6b60b; /*#3182ce;*/
+  --link: #d9ac0a; /* 15% tint */ /* #cca20a; 20% tint */ /* #e6b60b; 10% tint */ /* #3182ce; original blue */
 }
 
 body.light-mode {
