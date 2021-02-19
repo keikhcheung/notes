@@ -10,7 +10,7 @@ body.light-mode {
 body.light-mode {
   --references-bg: #fffae7; /*#ebf4ff;*/
   --references-bg-80: #fffae7cc; /*#ebf4ffcc;*/
-  --references-text: #b38d08; /*#718096;*/
+  --references-text: #9d8c4f; /* 5% tint %/ /* #a59353; */ /*#718096;*/
   --references-highlight: #665105; /*#4a5568;*/
 }
 
