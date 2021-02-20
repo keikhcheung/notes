@@ -134,6 +134,14 @@ li {
   flex-direction: column;
 }
 
+blockquote p {
+  font-style: italic;
+}
+
+blockquote p em {
+  font-style: normal;
+}
+
 .note-columns-scrolling-container {
   display: flex;
   overflow-x: auto;

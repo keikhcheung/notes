@@ -6,7 +6,7 @@ Tags:
 
 Learning in life is so much more beyond what we planned at the first place or what we were taught by others. Our own discoveries along the way make the greatest part. (Ahrens; ch. 2)
 
-**Studying is independent research** by itself. (Ahrens; ch. 5). Research is learning.
+**Studying is independent research** by itself (Ahrens; ch. 5). Research is learning.
 
 School provides the platform for knowledge debate and idea exchange, which is crucial to progressing knowledge. Education focusing on **rote learning** is missing both the occasion and the point. It turns students into **performers of information**, not masters/experts of knowledge. It takes away the opportunity of leaning—making meaningful connections for self.
 ==> [[Mastery/expertise vs performance]]

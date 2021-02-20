@@ -6,7 +6,7 @@ Tags:
 
 # Atomic research helps consolidate locked up knowledge in an organisation
 
-Atomic research formats raw data into **reusable, re-discoverable and re-factorable information** for subsequent inductive research. It lengthens the lifetime of research inputs, turn research tangible & concise, and, when successfully implemented, break silos & connect knowledge across departments.
+Atomic research formats raw data into **reusable, re-discoverable and re-factorable information** for subsequent inductive research. It lengthens the lifetime of research inputs, turns research tangible & concise, and, when successfully implemented, breaks silos & connects knowledge across departments.
 
 Implementing atomic research requires mostly a centralised research data hub with an **expanding taxonomy**. These are usually tags which mobilise/unlock every piece of raw material and cater it for different ways of eventual exploitation. The outcome of atomic research can be atomic insights—discovered across raw nuggets—and/or succinct reports (e.g. when observed insights are further proven by tests).
 
