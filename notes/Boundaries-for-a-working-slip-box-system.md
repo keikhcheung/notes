@@ -23,7 +23,7 @@ Keeping the slip-box system effective requires being selective with note-taking 
 - They should be turned into permanent notes if possible so as to become the ‘inspiring sources’ which enriches our own understanding, learning, etc., in an intentionalised manner (e.g. learning/research in the long run).
 - Literature notes are stored just for being referenced later. Ideas, arguments/grists, discussions, which these notes should feed or lead to, should be put in permanent notes and interlinked with other existing permanent notes (and project notes, if applicable).
 
-A lean slip-box system is durable and timeless. Maintaining these hygiene factors and boundaries keep our working & thinking environment of learning/research functional as it grows over time.
+A lean slip-box system is durable and timeless. Maintaining these hygiene factors and boundaries helps attain **the critical mass of notes** and keeps our working & thinking environment of learning/research functional as the system grows over time.
 
 ## Recap / takeaway
 
@@ -33,7 +33,7 @@ A lean slip-box system is durable and timeless. Maintaining these hygiene factor
 - Permanent notes can be revised and rewritten as their content and our thoughts become stimulated by other findings later.
 - Ongoing discussions/corroboration/challenges to and with our permanent notes interweave and enrich our knowledge.
 
-*Last update: 2021-01-30*
+*Last update: 2021-02-21*
 
 ## References
 

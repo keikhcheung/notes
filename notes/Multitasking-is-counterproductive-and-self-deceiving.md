@@ -17,9 +17,16 @@ The more we attempt to multitask, the worse we actually become at it. We actuall
 - *‘But what is most interesting about these studies is not the fact that the productivity and the quality of the work decreases with multitasking, but that it also impairs the ability to deal with more than one thing at a time!*
 - *‘This result is surprising, because we usually expect to become better at something the more often we do it. But on a closer look, it makes sense. Multitasking is not what we think it is. It is not focusing attention on more than one thing at a time. Nobody can do that. When we think we multitask, what we really do is shift our attention quickly between two (or more) things. And every shift is a drain on our ability to shift and delays the moment we manage to get focused again. Trying to multitask fatigues us and decreases our ability to deal with more than one task.’* (Ahrens)
 
+Different tasks require different kinds of attention  (Ahrens). It is important to **allocate separate attention to separate tasks**. Do not  scramble them all at once.
+- E.g. In writing, reading ≠ making notes ≠ thinking of ideas to write ≠ drafting ≠ proofreading.
+
 [Mere-Exposure Effect]: https://en.wikipedia.org/wiki/Mere-exposure_effect
 
-*Last update: 2021-02-15*
+## Related
+
+- [[Attention, work and workflow]] 
+
+*Last update: 2021-02-21*
 
 ---
 
