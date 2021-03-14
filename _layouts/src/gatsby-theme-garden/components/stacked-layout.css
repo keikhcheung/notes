@@ -42,6 +42,7 @@ samp {
 
 strong {
   font-weight: 600;
+  color: var(--text-strong);
 }
 
 body {
