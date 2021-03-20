@@ -1,5 +1,4 @@
 ---
-title: 
 tags:
   - 
 ---
@@ -17,7 +16,7 @@ tags:
 ## Related
 - 
 
-*Last update: ${CURRENT_YEAR}-{CURRENT_MONTH}-${CURRENT_DATE}*
+*Last update: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}*
 
 ---
 
