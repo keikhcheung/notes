@@ -1,5 +1,5 @@
 ---
-Tags:
+tags:
   - UX-UI
 ---
 # Heuristics for interaction design

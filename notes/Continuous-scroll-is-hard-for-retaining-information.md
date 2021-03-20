@@ -1,6 +1,6 @@
 ---
 title: "Continuous scroll is hard for retaining information"
-Tags:
+tags:
   - UX-UI
 ---
 

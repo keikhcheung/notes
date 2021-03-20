@@ -1,5 +1,6 @@
 ---
-Tags:
+title: "Research and learning"
+tags:
   - Education
 ---
 # Research and learning

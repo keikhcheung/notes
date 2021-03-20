@@ -1,7 +1,8 @@
 ---
-Tags:
+title: "Attention, work and workflow"
+tags:
   - productivity
-  - Cognitive Science
+  - Cognitive-Science
 ---
 
 # Attention, work and workflow

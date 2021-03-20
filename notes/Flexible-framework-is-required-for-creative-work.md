@@ -1,5 +1,6 @@
 ---
-Tags:
+title: "Flexible framework is required for creative work"
+tags:
   - creativity
 ---
 

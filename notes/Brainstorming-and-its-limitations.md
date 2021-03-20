@@ -1,5 +1,6 @@
 ---
-Tags:
+title: "Brainstorming and its limitations"
+tags:
   - creativity
 ---
 

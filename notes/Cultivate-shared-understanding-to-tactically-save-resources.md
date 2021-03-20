@@ -1,7 +1,7 @@
 ---
 title: "Cultivate shared understanding to tactically save resources"
-Tags:
-  - Knowledge Management
+tags:
+  - Knowledge-Management
   - Collaboration
 ---
 

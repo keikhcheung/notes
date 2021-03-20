@@ -1,6 +1,6 @@
 ---
 title: "Trust is different from trustworthiness"
-Tags:
+tags:
   - Trust-building
 ---
 

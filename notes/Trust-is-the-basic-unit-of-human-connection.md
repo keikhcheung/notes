@@ -1,6 +1,6 @@
 ---
 title: "Trust is the basic unit of human connection"
-Tags:
+tags:
   - Trust-building
 ---
 

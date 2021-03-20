@@ -1,9 +1,10 @@
 ---
-Tags:
+title: "How To Take Smart Notes"
+tags:
   - book 
   - reference-book 
   - Note-taking
-  - Knowledge Management
+  - Knowledge-Management
 type: book
 ---
 
