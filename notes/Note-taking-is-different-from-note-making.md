@@ -1,8 +1,8 @@
 ---
 title: "Note-taking is different from note-making"
 tags:
-  - Note-taking
-  - Knowledge-Management
+  - note-taking
+  - knowledge-management
 ---
 
 # Note-taking is different from note-making

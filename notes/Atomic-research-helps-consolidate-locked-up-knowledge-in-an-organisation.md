@@ -1,7 +1,7 @@
 ---
 title: "Atomic research helps consolidate locked up knowledge in an organisation"
 tags:
-  - Knowledge-Management
+  - knowledge-management
 ---
 
 # Atomic research helps consolidate locked up knowledge in an organisation

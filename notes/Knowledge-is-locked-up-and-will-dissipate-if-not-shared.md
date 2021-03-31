@@ -1,7 +1,7 @@
 ---
 tags:
-  - Knowledge-Management
-  - Education
+  - knowledge-management
+  - education
 ---
 
 # Knowledge is locked up and will dissipate if not shared

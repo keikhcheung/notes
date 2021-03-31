@@ -1,7 +1,7 @@
 ---
 title: "Trust is different from trustworthiness"
 tags:
-  - Trust-building
+  - trust-building
 ---
 
 # Trust is different from trustworthiness

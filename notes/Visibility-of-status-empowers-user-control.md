@@ -1,7 +1,7 @@
 ---
 title: "Visibility of status empowers user control"
 tags: 
-  - UX-UI
+  - ux-ui
 ---
 
 # Visibility of status empowers user control

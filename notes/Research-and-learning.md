@@ -1,7 +1,7 @@
 ---
 title: "Research and learning"
 tags:
-  - Education
+  - education
 ---
 # Research and learning
 

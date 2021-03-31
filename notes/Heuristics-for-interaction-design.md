@@ -1,6 +1,6 @@
 ---
 tags:
-  - UX-UI
+  - ux-ui
 ---
 # Heuristics for interaction design
 

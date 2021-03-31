@@ -1,7 +1,7 @@
 ---
 title: "Boundaries for a working slip-box system"
 tags:
-  - Knowledge-Management
+  - knowledge-management
 ---
 
 # Boundaries for a working slip-box system

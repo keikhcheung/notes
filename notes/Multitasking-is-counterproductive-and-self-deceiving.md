@@ -2,7 +2,7 @@
 title: "Multitasking is counterproductive and self-deceiving"
 tags:
   - productivity
-  - Cognitive-Bias
+  - cognitive-bias
 ---
 
 # Multitasking is counterproductive and self-deceiving

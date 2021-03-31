@@ -1,7 +1,7 @@
 ---
 title: "Transparency can but not always help establish trust"
 tags:
-  - Trust-building
+  - trust-building
 ---
 
 # Transparency can but not always help establish trust

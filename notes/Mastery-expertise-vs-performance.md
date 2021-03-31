@@ -1,7 +1,7 @@
 ---
 title: "Mastery/expertise vs performance"
 tags:
-  - Education
+  - education
 ---
 
 # Mastery/expertise vs performance

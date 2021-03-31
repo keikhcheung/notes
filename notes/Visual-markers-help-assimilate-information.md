@@ -1,7 +1,7 @@
 ---
 title: "Visual markers help assimilate information"
 tags:
-  - UX-UI
+  - ux-ui
 ---
 
 # Visual markers help assimilate information

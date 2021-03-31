@@ -1,7 +1,7 @@
 ---
 title: "Learning in public"
 tags:
-  - Education
+  - education
 ---
 
 # Learning in public

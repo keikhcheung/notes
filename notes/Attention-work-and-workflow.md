@@ -2,7 +2,7 @@
 title: "Attention, work and workflow"
 tags:
   - productivity
-  - Cognitive-Science
+  - cognitive-science
 ---
 
 # Attention, work and workflow

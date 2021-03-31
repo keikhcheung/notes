@@ -1,7 +1,7 @@
 ---
 title: "Knowledge is locked up if not freed from the source context"
 tags:
-  - Note-taking
+  - note-taking
 ---
 
 # Knowledge is locked up if not freed from the source context

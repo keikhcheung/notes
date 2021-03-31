@@ -1,8 +1,8 @@
 ---
 title: "Peripheral vision enhances discoverability"
 tags:
-  - UX-UI
-  - Workspace
+  - ux-ui
+  - workspace
 ---
 
 # Peripheral vision enhances discoverability
