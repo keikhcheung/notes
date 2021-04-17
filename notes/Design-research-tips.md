@@ -1,6 +1,7 @@
 ---
 title: "Design research tips"
 tags:
+  - research
   - ux-ui
 ---
 

@@ -2,6 +2,7 @@
 title: "Atomic research helps consolidate locked up knowledge in an organisation"
 tags:
   - knowledge-management
+  - research
 ---
 
 # Atomic research helps consolidate locked up knowledge in an organisation
@@ -17,6 +18,6 @@ A thorough research set-up allows **scalability of research work**. New input /
 * * *
 
 ## References
-Forney, Jared and Sofia Quintero. _Interesting Challenges in Building an Effective Research Repository from Scratch_. UXRConf Anywhere 2020, 11 June 2020. www.crowdcast.io/e/uxrcbonustalk5.
+Forney, Jared and Sofia Quintero. _Interesting Challenges in Building an Effective Research Repository from Scratch_. UXRConf Anywhere 2020, 11 June 2020. www.youtube.com/watch?v=lGP_SHv3D-A.
 
 Dovetail. ‘Atomic research: From reports to consumable insights’. _Dovetail Blog_, 5 June 2020, [dovetailapp.com/blog/2020/atomic-research/](https://dovetailapp.com/blog/2020/atomic-research/). Accessed 21 June 2020.
